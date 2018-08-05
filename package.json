@@ -1,0 +1,12 @@
+{
+  "name": "froggyfrog-membership",
+  "author": "Brett Killian",
+  "description": "A Membership system patterned after Devise",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "should": "^13.2.3"
+  }
+}
